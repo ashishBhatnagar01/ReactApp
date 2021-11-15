@@ -1,0 +1,14 @@
+.car{
+  width:70%;
+  margin: 25px auto;
+  margin-bottom: 4rem;
+}
+/* .card{
+  height: 40rem;
+  width: 40rem;
+  border-radius: 50px;
+} */
+.carousel-control-next-icon{
+font-weight: 800;
+font-size: 40px ;
+}

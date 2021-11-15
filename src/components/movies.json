@@ -1,0 +1,26 @@
+[
+    {
+    "id":1,
+    "title":"Bell Bottom",
+    "actor":"Akshay Kumar",
+    "img":"https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/akshay-kumar-finishes-shoot-of-bell-bottom-202010-1601555182.jpg"
+},
+{
+    "id":2,
+    "title":"Shershah",
+    "img":"https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/akshay-kumar-finishes-shoot-of-bell-bottom-202010-1601555182.jpg",
+    "actor":"Kiara"
+},
+{
+    "id":3,
+    "title":"Sultan",
+    "img":"https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/akshay-kumar-finishes-shoot-of-bell-bottom-202010-1601555182.jpg",
+    "actor":"Salman"
+},
+{
+    "id":4,
+    "title":"Thappad",
+    "img":"https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/akshay-kumar-finishes-shoot-of-bell-bottom-202010-1601555182.jpg",
+    "actor":"Tapsee Panu"
+}
+]
