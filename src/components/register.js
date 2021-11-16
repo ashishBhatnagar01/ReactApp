@@ -18,7 +18,7 @@ function Register() {
             "actors":actor
         }
         // console.log(movieData);
-        const response= await axios.post('http://localhost:5000/addmovies',movieData);
+        const response= await axios.post('https://bms-backend2.herokuapp.com//addmovies',movieData);
         console.log(response);
         swal({
             title: "Movie Added!",
