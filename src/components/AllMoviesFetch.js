@@ -7,15 +7,9 @@ import { useState, useEffect } from "react";
 function AllMoviesFetch() {
   const [data,setData]=useState([]);
   useEffect(async ()=>{
-      try{
         const response=await axios.get('https://bms-backend2.herokuapp.com//movies');
         console.log(response.data);
         setData(response.data);
-      } 
-      catch(err)
-      {
-        console.error(err);
-      }
   },[]);
   return (
     <div>
